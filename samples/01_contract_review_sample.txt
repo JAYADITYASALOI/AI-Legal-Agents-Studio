@@ -1,0 +1,34 @@
+Client name: ABC Pvt Ltd
+Type of agreement: Master Services Agreement
+Client’s role in the transaction: Service provider
+Any specific concerns: liability cap, indemnity scope, termination rights, IP ownership, confidentiality, data protection
+Governing law: Indian law
+
+SAMPLE CONTRACT EXCERPT
+
+1. Services
+Supplier shall provide software development and maintenance services as described in Statement of Work(s) issued by the Client from time to time.
+
+2. Fees and Payment
+Client shall pay invoices within 45 days of receipt. Any disputed invoice must be notified within 7 days.
+
+3. Confidentiality
+Each party shall keep confidential all information received from the other party and may use such information only for the purpose of performing this Agreement.
+
+4. Intellectual Property
+All deliverables, work product, and improvements developed under this Agreement shall be owned exclusively by Client upon payment of all fees due.
+
+5. Indemnity
+Supplier shall indemnify Client against all claims, losses, damages, liabilities, costs, and expenses arising out of or relating to the services, including any third-party claims.
+
+6. Limitation of Liability
+Supplier's total aggregate liability under or in connection with this Agreement shall not exceed the total fees paid in the preceding 30 days. In no event shall Supplier be liable for indirect, incidental, consequential, special, or punitive damages.
+
+7. Termination
+Client may terminate this Agreement for convenience upon 7 days' written notice. Supplier may terminate only for material breach and only after 30 days' notice and a cure period.
+
+8. Data Protection
+Supplier shall comply with applicable data protection laws but shall not be responsible for any breach caused by Client systems or third-party tools.
+
+9. Governing Law and Dispute Resolution
+This Agreement shall be governed by the laws of India and disputes shall be subject to exclusive jurisdiction of the courts at Mumbai, Maharashtra.

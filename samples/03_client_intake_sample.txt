@@ -1,0 +1,10 @@
+A startup founder has submitted an enquiry for help reviewing a software development agreement. The other side wants the agreement signed tomorrow. The founder is worried about IP ownership, delayed delivery, payment milestones, warranty terms, and liability if the software fails in production. The startup has not yet shared the draft agreement, but they say the vendor is overseas and wants a 50% upfront payment.
+
+Practice area: contracts / technology / commercial
+
+Key details:
+- They need a fast review before signing.
+- They want to know whether the IP in custom code will belong to them.
+- They want redlines if any clause is too risky.
+- Budget has not been discussed.
+- No known dispute yet.

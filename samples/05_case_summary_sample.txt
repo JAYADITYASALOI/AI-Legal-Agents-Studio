@@ -1,0 +1,38 @@
+CITATION: ABC Tech Pvt Ltd v XYZ Solutions LLP, 2024 SCC OnLine Del 1234
+COURT: Delhi High Court
+BENCH: Justice A. Kumar and Justice B. Sen
+DATE: 15 March 2024
+AREA OF LAW: Contract Law - Limitation of Liability / Damages
+PARTIES: ABC Tech Pvt Ltd (Appellant) v XYZ Solutions LLP (Respondent)
+
+BRIEF FACTS:
+The appellant entered into a software implementation contract with the respondent. The contract contained a limitation of liability clause and an exclusion of consequential damages. A dispute arose after delayed implementation and alleged losses caused by the delay. The appellant argued that the respondent had acted in breach and that the liability cap should not protect the respondent in the circumstances. The respondent relied on the express contractual wording and argued that the cap applied to all claims except fraud and wilful misconduct.
+
+ISSUES FRAMED:
+1. Whether the limitation of liability clause was enforceable on the facts.
+2. Whether consequential damages were excluded by the contract.
+3. Whether the respondent's conduct fell within any contractual carve-out.
+
+HELD:
+1. The clause was generally enforceable because the parties had negotiated the allocation of risk in clear language.
+2. Consequential damages were excluded where the clause was unambiguous.
+3. The carve-out for wilful misconduct required evidence and was not established on the record.
+
+RATIO DECIDENDI:
+Where commercial parties use clear contractual language to allocate risk, courts will ordinarily give effect to that allocation unless a recognised legal exception applies.
+
+KEY OBITER:
+The court noted that parties should draft carve-outs for fraud, wilful misconduct, and gross negligence with precision.
+
+CASES RELIED UPON:
+- Photo Production Ltd v Securicor Transport Ltd (distinguished for context)
+- Relevant Indian authorities on contractual interpretation and exclusion clauses
+
+STATUTORY PROVISIONS:
+Indian Contract Act, 1872; Specific Relief Act, 1963
+
+PRACTICAL IMPLICATIONS:
+This judgment is useful when drafting liability caps and exclusion clauses in IT services contracts. It supports the need for clear carve-outs and careful risk allocation.
+
+FINAL DISPOSITION:
+Appeal dismissed.

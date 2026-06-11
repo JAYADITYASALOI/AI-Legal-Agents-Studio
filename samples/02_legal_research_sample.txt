@@ -1,0 +1,14 @@
+Question: Can a service provider limit liability for indirect damages under Indian contract law?
+
+Facts:
+- Two Indian companies entered into an IT services agreement.
+- The agreement includes a clause excluding indirect, incidental, and consequential damages.
+- The service provider wants to know whether the clause is generally enforceable.
+- The client also wants to know whether gross negligence or wilful misconduct can be carved out.
+
+Jurisdiction: India
+Purpose of the research: advice
+Urgency: Medium
+
+Attachment note:
+Please analyse Indian contract principles on exclusion clauses, public policy, liquidated damages, and enforceability of limitation of liability clauses. Include leading statutory provisions and major cases.
