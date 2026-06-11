@@ -5,4 +5,4 @@ __pycache__/
 outputs/*.md
 outputs/*.json
 outputs/*.txt
-
+!outputs/.gitkeep
